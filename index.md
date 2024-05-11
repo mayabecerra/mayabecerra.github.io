@@ -1,7 +1,7 @@
 
 # Maya Becerra's Portfolio
 
-I am a computer science major at CSUF and I plan on graduating in 2027. 
+I am a computer science major at CSUF and I plan on graduating in 2027. My Github page is http://github.com/mayabecerra
 
 ## Favorite CPSC 120L Labs
 
